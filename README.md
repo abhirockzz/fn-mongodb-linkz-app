@@ -1,4 +1,6 @@
-# Simple link sharing app ([Hacker News](https://news.ycombinator.com/news) like) using Fn Functions with MongoDB
+# Simple link sharing app using Fn Functions with MongoDB
+
+> similar to stuff like [Hacker News](https://news.ycombinator.com/news
 
 It's possible to
 
