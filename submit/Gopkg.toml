@@ -1,0 +1,12 @@
+
+[[constraint]]
+  branch = "master"
+  name = "github.com/fnproject/fdk-go"
+
+[[constraint]]
+  branch = "master"
+  name = "github.com/mongodb/mongo-go-driver"
+
+[prune]
+  go-tests = true
+  unused-packages = true
